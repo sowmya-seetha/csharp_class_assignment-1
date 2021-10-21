@@ -1,0 +1,12 @@
+E:\.NetTraining\TempLibrary\bin\Debug\net5.0\TempLibrary.deps.json
+E:\.NetTraining\TempLibrary\bin\Debug\net5.0\TempLibrary.dll
+E:\.NetTraining\TempLibrary\bin\Debug\net5.0\ref\TempLibrary.dll
+E:\.NetTraining\TempLibrary\bin\Debug\net5.0\TempLibrary.pdb
+E:\.NetTraining\TempLibrary\obj\Debug\net5.0\TempLibrary.csproj.AssemblyReference.cache
+E:\.NetTraining\TempLibrary\obj\Debug\net5.0\TempLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NetTraining\TempLibrary\obj\Debug\net5.0\TempLibrary.AssemblyInfoInputs.cache
+E:\.NetTraining\TempLibrary\obj\Debug\net5.0\TempLibrary.AssemblyInfo.cs
+E:\.NetTraining\TempLibrary\obj\Debug\net5.0\TempLibrary.csproj.CoreCompileInputs.cache
+E:\.NetTraining\TempLibrary\obj\Debug\net5.0\TempLibrary.dll
+E:\.NetTraining\TempLibrary\obj\Debug\net5.0\ref\TempLibrary.dll
+E:\.NetTraining\TempLibrary\obj\Debug\net5.0\TempLibrary.pdb
